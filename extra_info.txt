@@ -1,0 +1,8 @@
+Here we have 2 python files.
+1)text-summarization1.py - using the nltk library
+2)text-summarization2.py - using the nx library
+
+
+There are other ways also like BERT.
+
+To run the code use the cmds like - python text-summarization1.py "text for summarization"
